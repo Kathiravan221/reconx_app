@@ -35,3 +35,6 @@ The proposed UI/UX design provides:
 - Figma
 - UI/UX Design Principles
 - Typography & Color Theory
+- ## 🔗 Figma Prototype
+link :https://www.figma.com/proto/9AeP0iegXtpB06sYqBSB1b/Untitled?node-id=0-1&p=f&t=VIvUPbGgRRUngyCi-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=28%3A97
+
